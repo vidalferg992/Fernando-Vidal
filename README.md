@@ -22,7 +22,7 @@ RetailPro es un proyecto de análisis de datos comerciales centrado en la inform
 - **SQL Server Management Studio (SSMS):** cliente recomendado para conectarse a SQL Server y ejecutar consultas.
 - **Power BI Desktop:** apertura y exploración del archivo `.pbix`.
 - **Git y GitHub:** control de versiones y alojamiento del proyecto.
-- **Google Gemini:** revisión de códigos y ejecución de consultas. Evaluación preliminar de insights
+- **Google Gemini:** apoyo en la revisión del código y exploración de posibles insights.
 
 ## Contenido del repositorio
 
